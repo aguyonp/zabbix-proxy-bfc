@@ -22,7 +22,7 @@ effectuées par les clients zabbix
 `# docker-compose logs`
 
 ## Docker-compose.yml (fichier de configuration)
-    version: '3.3'
+    version: '2'
     services:
         zabbix-proxy-bfc:
             container_name: zabbix-proxy
