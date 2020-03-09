@@ -1,5 +1,6 @@
 # Zabbix-Proxy-Bfc
-![https://bourgognefranchecomte.chambres-agriculture.fr/fileadmin/user_upload/Bourgogne-Franche-Comte/061_Inst-Bourgogne-Franche-Comte/Interface/BFC_LOGO_RVB_COULEUR.png](https://bourgognefranchecomte.chambres-agriculture.fr/fileadmin/user_upload/Bourgogne-Franche-Comte/061_Inst-Bourgogne-Franche-Comte/Interface/BFC_LOGO_RVB_COULEUR.png) 
+![https://bourgognefranchecomte.chambres-agriculture.fr/fileadmin/user_upload/Bourgogne-Franche-Comte/061_Inst-Bourgogne-Franche-Comte/Interface/BFC_LOGO_RVB_COULEUR.png](https://bourgognefranchecomte.chambres-agriculture.fr/fileadmin/user_upload/Bourgogne-Franche-Comte/061_Inst-Bourgogne-Franche-Comte/Interface/BFC_LOGO_RVB_COULEUR.png)
+
 Fichiers de configuration permettant le déploiement de serveurs 
 **zabbix-proxy** sur le réseau **BFC**
 ## Prérequis
