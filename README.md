@@ -17,7 +17,10 @@ Par défaut le port 10051 est exposé, il permet de communiquer avec les
 agents Zabbix.
 ## Logs
 Cette commande permet de visionner les logs ainsi que les connection 
-effectuées par les clients zabbix `# docker-compose logs`
+effectuées par les clients zabbix 
+
+`# docker-compose logs`
+
 ## Docker-compose.yml (fichier de configuration)
     version: '3.3'
     services:
